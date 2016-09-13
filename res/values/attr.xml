@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Indicator">
+        <attr name="color" format="color"></attr>
+    </declare-styleable>
+    <declare-styleable name="Circle">
+        <attr name="text" format="string"></attr>
+    </declare-styleable>
+</resources>
